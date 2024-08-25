@@ -1,0 +1,17 @@
+curl --location 'yourdomain/api/serviceentry/getserviceentry'
+
+--------------------------------------------------------------------------------
+
+curl --location 'yourdomain/api/serviceentry/AddServiceEntry' \
+--header 'Content-Type: application/json' \
+--data '   {
+        "licensePlate": "34 XV 12",
+        "brandName": "Opel",
+        "modelName": "Corsa",
+        "mileage": 10000,
+        "modelYear": 2023,
+        "serviceArrivalDate": "2024-08-25T00:00:00",
+        "warranty": true,
+        "cityName": "Ankara",
+        "serviceNote": "deneme 1 api"
+    }'
