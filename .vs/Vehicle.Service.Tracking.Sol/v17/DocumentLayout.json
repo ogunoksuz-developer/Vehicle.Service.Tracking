@@ -1,0 +1,503 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|c:\\users\\ogun.oksuz\\source\\repos\\car.service.web.sol\\car.service.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|solutionrelative:car.service.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|c:\\users\\ogun.oksuz\\source\\repos\\car.service.web.sol\\car.service.web\\controllers\\api\\serviceentrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|solutionrelative:car.service.web\\controllers\\api\\serviceentrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|c:\\users\\ogun.oksuz\\source\\repos\\car.service.web.sol\\car.service.web\\middlewares\\redirecttologinmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|solutionrelative:car.service.web\\middlewares\\redirecttologinmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|c:\\users\\ogun.oksuz\\source\\repos\\car.service.web.sol\\car.service.web\\models\\api\\serviceentryresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|solutionrelative:car.service.web\\models\\api\\serviceentryresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BF1BEE-AA8A-4D22-8B4C-9FBDB02C7A94}|Car.Service.Web.Business\\Car.Service.Web.Business.csproj|c:\\users\\ogun.oksuz\\source\\repos\\car.service.web.sol\\car.service.web.business\\abstract\\icityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BF1BEE-AA8A-4D22-8B4C-9FBDB02C7A94}|Car.Service.Web.Business\\Car.Service.Web.Business.csproj|solutionrelative:car.service.web.business\\abstract\\icityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BF1BEE-AA8A-4D22-8B4C-9FBDB02C7A94}|Car.Service.Web.Business\\Car.Service.Web.Business.csproj|c:\\users\\ogun.oksuz\\source\\repos\\car.service.web.sol\\car.service.web.business\\concrete\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BF1BEE-AA8A-4D22-8B4C-9FBDB02C7A94}|Car.Service.Web.Business\\Car.Service.Web.Business.csproj|solutionrelative:car.service.web.business\\concrete\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|c:\\users\\ogun.oksuz\\source\\repos\\car.service.web.sol\\car.service.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|solutionrelative:car.service.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|c:\\users\\ogun.oksuz\\source\\repos\\car.service.web.sol\\car.service.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|solutionrelative:car.service.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|c:\\users\\ogun.oksuz\\source\\repos\\car.service.web.sol\\car.service.web\\views\\home\\createorupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|solutionrelative:car.service.web\\views\\home\\createorupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|c:\\users\\ogun.oksuz\\source\\repos\\car.service.web.sol\\car.service.web\\utilities\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|solutionrelative:car.service.web\\utilities\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|c:\\users\\ogun.oksuz\\source\\repos\\car.service.web.sol\\car.service.web\\models\\serviceentrylistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|solutionrelative:car.service.web\\models\\serviceentrylistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|c:\\users\\ogun.oksuz\\source\\repos\\car.service.web.sol\\car.service.web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|solutionrelative:car.service.web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FC3202-8ECC-4FB6-A625-240CC5B903CE}|Car.Service.Web.Data\\Car.Service.Web.Data.csproj|c:\\users\\ogun.oksuz\\source\\repos\\car.service.web.sol\\car.service.web.data\\concrete\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FC3202-8ECC-4FB6-A625-240CC5B903CE}|Car.Service.Web.Data\\Car.Service.Web.Data.csproj|solutionrelative:car.service.web.data\\concrete\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BF1BEE-AA8A-4D22-8B4C-9FBDB02C7A94}|Car.Service.Web.Business\\Car.Service.Web.Business.csproj|c:\\users\\ogun.oksuz\\source\\repos\\car.service.web.sol\\car.service.web.business\\concrete\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BF1BEE-AA8A-4D22-8B4C-9FBDB02C7A94}|Car.Service.Web.Business\\Car.Service.Web.Business.csproj|solutionrelative:car.service.web.business\\concrete\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BF1BEE-AA8A-4D22-8B4C-9FBDB02C7A94}|Car.Service.Web.Business\\Car.Service.Web.Business.csproj|c:\\users\\ogun.oksuz\\source\\repos\\car.service.web.sol\\car.service.web.business\\concrete\\serviceentryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BF1BEE-AA8A-4D22-8B4C-9FBDB02C7A94}|Car.Service.Web.Business\\Car.Service.Web.Business.csproj|solutionrelative:car.service.web.business\\concrete\\serviceentryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|c:\\users\\ogun.oksuz\\source\\repos\\car.service.web.sol\\car.service.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|solutionrelative:car.service.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|c:\\users\\ogun.oksuz\\source\\repos\\car.service.web.sol\\car.service.web\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|solutionrelative:car.service.web\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BF1BEE-AA8A-4D22-8B4C-9FBDB02C7A94}|Car.Service.Web.Business\\Car.Service.Web.Business.csproj|c:\\users\\ogun.oksuz\\source\\repos\\car.service.web.sol\\car.service.web.business\\abstract\\iserviceentryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BF1BEE-AA8A-4D22-8B4C-9FBDB02C7A94}|Car.Service.Web.Business\\Car.Service.Web.Business.csproj|solutionrelative:car.service.web.business\\abstract\\iserviceentryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FC3202-8ECC-4FB6-A625-240CC5B903CE}|Car.Service.Web.Data\\Car.Service.Web.Data.csproj|c:\\users\\ogun.oksuz\\source\\repos\\car.service.web.sol\\car.service.web.data\\abstract\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FC3202-8ECC-4FB6-A625-240CC5B903CE}|Car.Service.Web.Data\\Car.Service.Web.Data.csproj|solutionrelative:car.service.web.data\\abstract\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|c:\\users\\ogun.oksuz\\source\\repos\\car.service.web.sol\\car.service.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|solutionrelative:car.service.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|c:\\users\\ogun.oksuz\\source\\repos\\car.service.web.sol\\car.service.web\\vehicle.service.tracking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|solutionrelative:car.service.web\\vehicle.service.tracking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FC3202-8ECC-4FB6-A625-240CC5B903CE}|Car.Service.Web.Data\\Car.Service.Web.Data.csproj|c:\\users\\ogun.oksuz\\source\\repos\\car.service.web.sol\\car.service.web.data\\entities\\serviceentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FC3202-8ECC-4FB6-A625-240CC5B903CE}|Car.Service.Web.Data\\Car.Service.Web.Data.csproj|solutionrelative:car.service.web.data\\entities\\serviceentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FC3202-8ECC-4FB6-A625-240CC5B903CE}|Car.Service.Web.Data\\Car.Service.Web.Data.csproj|c:\\users\\ogun.oksuz\\source\\repos\\car.service.web.sol\\car.service.web.data\\servicevehiclecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FC3202-8ECC-4FB6-A625-240CC5B903CE}|Car.Service.Web.Data\\Car.Service.Web.Data.csproj|solutionrelative:car.service.web.data\\servicevehiclecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|c:\\users\\ogun.oksuz\\source\\repos\\car.service.web.sol\\car.service.web\\models\\citymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|solutionrelative:car.service.web\\models\\citymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|c:\\users\\ogun.oksuz\\source\\repos\\car.service.web.sol\\car.service.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|solutionrelative:car.service.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FC3202-8ECC-4FB6-A625-240CC5B903CE}|Car.Service.Web.Data\\Car.Service.Web.Data.csproj|c:\\users\\ogun.oksuz\\source\\repos\\car.service.web.sol\\car.service.web.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FC3202-8ECC-4FB6-A625-240CC5B903CE}|Car.Service.Web.Data\\Car.Service.Web.Data.csproj|solutionrelative:car.service.web.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FC3202-8ECC-4FB6-A625-240CC5B903CE}|Car.Service.Web.Data\\Car.Service.Web.Data.csproj|c:\\users\\ogun.oksuz\\source\\repos\\car.service.web.sol\\car.service.web.data\\concrete\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FC3202-8ECC-4FB6-A625-240CC5B903CE}|Car.Service.Web.Data\\Car.Service.Web.Data.csproj|solutionrelative:car.service.web.data\\concrete\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FC3202-8ECC-4FB6-A625-240CC5B903CE}|Car.Service.Web.Data\\Car.Service.Web.Data.csproj|c:\\users\\ogun.oksuz\\source\\repos\\car.service.web.sol\\car.service.web.data\\abstract\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FC3202-8ECC-4FB6-A625-240CC5B903CE}|Car.Service.Web.Data\\Car.Service.Web.Data.csproj|solutionrelative:car.service.web.data\\abstract\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|c:\\users\\ogun.oksuz\\source\\repos\\car.service.web.sol\\car.service.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6E93240-E17F-4BED-99B2-2AF18419D173}|Car.Service.Web\\Vehicle.Service.Tracking.csproj|solutionrelative:car.service.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICityService.cs",
+              "DocumentMoniker": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web.Business\\Abstract\\ICityService.cs",
+              "RelativeDocumentMoniker": "Car.Service.Web.Business\\Abstract\\ICityService.cs",
+              "ToolTip": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web.Business\\Abstract\\ICityService.cs",
+              "RelativeToolTip": "Car.Service.Web.Business\\Abstract\\ICityService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T20:24:04.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CityService.cs",
+              "DocumentMoniker": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web.Business\\Concrete\\CityService.cs",
+              "RelativeDocumentMoniker": "Car.Service.Web.Business\\Concrete\\CityService.cs",
+              "ToolTip": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web.Business\\Concrete\\CityService.cs",
+              "RelativeToolTip": "Car.Service.Web.Business\\Concrete\\CityService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T21:10:00.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceEntryResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\Models\\Api\\ServiceEntryResponseModel.cs",
+              "RelativeDocumentMoniker": "Car.Service.Web\\Models\\Api\\ServiceEntryResponseModel.cs",
+              "ToolTip": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\Models\\Api\\ServiceEntryResponseModel.cs",
+              "RelativeToolTip": "Car.Service.Web\\Models\\Api\\ServiceEntryResponseModel.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAvwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T21:08:17.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceEntryController.cs",
+              "DocumentMoniker": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\Controllers\\api\\ServiceEntryController.cs",
+              "RelativeDocumentMoniker": "Car.Service.Web\\Controllers\\api\\ServiceEntryController.cs",
+              "ToolTip": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\Controllers\\api\\ServiceEntryController.cs",
+              "RelativeToolTip": "Car.Service.Web\\Controllers\\api\\ServiceEntryController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAnwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T21:02:09.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Navbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeDocumentMoniker": "Car.Service.Web\\Views\\Shared\\_Navbar.cshtml",
+              "ToolTip": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeToolTip": "Car.Service.Web\\Views\\Shared\\_Navbar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T21:00:06.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Car.Service.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Car.Service.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T21:00:05.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Vehicle.Service.Tracking.csproj",
+              "DocumentMoniker": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\Vehicle.Service.Tracking.csproj",
+              "RelativeDocumentMoniker": "Car.Service.Web\\Vehicle.Service.Tracking.csproj",
+              "ToolTip": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\Vehicle.Service.Tracking.csproj",
+              "RelativeToolTip": "Car.Service.Web\\Vehicle.Service.Tracking.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-25T20:15:57.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\Utilities\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Car.Service.Web\\Utilities\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\Utilities\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Car.Service.Web\\Utilities\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T20:08:11.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ServiceVehicleContext.cs",
+              "DocumentMoniker": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web.Data\\ServiceVehicleContext.cs",
+              "RelativeDocumentMoniker": "Car.Service.Web.Data\\ServiceVehicleContext.cs",
+              "ToolTip": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web.Data\\ServiceVehicleContext.cs",
+              "RelativeToolTip": "Car.Service.Web.Data\\ServiceVehicleContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T19:52:12.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CityModel.cs",
+              "DocumentMoniker": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\Models\\CityModel.cs",
+              "RelativeDocumentMoniker": "Car.Service.Web\\Models\\CityModel.cs",
+              "ToolTip": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\Models\\CityModel.cs",
+              "RelativeToolTip": "Car.Service.Web\\Models\\CityModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T19:45:26.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateOrUpdate.cshtml",
+              "DocumentMoniker": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\Views\\Home\\CreateOrUpdate.cshtml",
+              "RelativeDocumentMoniker": "Car.Service.Web\\Views\\Home\\CreateOrUpdate.cshtml",
+              "ToolTip": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\Views\\Home\\CreateOrUpdate.cshtml",
+              "RelativeToolTip": "Car.Service.Web\\Views\\Home\\CreateOrUpdate.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T19:17:16.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServiceEntryListModel.cs",
+              "DocumentMoniker": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\Models\\ServiceEntryListModel.cs",
+              "RelativeDocumentMoniker": "Car.Service.Web\\Models\\ServiceEntryListModel.cs",
+              "ToolTip": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\Models\\ServiceEntryListModel.cs",
+              "RelativeToolTip": "Car.Service.Web\\Models\\ServiceEntryListModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:57:35.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Car.Service.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\appsettings.json",
+              "RelativeToolTip": "Car.Service.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-25T18:44:25.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web.Business\\Concrete\\UserService.cs",
+              "RelativeDocumentMoniker": "Car.Service.Web.Business\\Concrete\\UserService.cs",
+              "ToolTip": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web.Business\\Concrete\\UserService.cs",
+              "RelativeToolTip": "Car.Service.Web.Business\\Concrete\\UserService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAIA3wEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:36:39.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServiceEntryService.cs",
+              "DocumentMoniker": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web.Business\\Concrete\\ServiceEntryService.cs",
+              "RelativeDocumentMoniker": "Car.Service.Web.Business\\Concrete\\ServiceEntryService.cs",
+              "ToolTip": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web.Business\\Concrete\\ServiceEntryService.cs",
+              "RelativeToolTip": "Car.Service.Web.Business\\Concrete\\ServiceEntryService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAYwDAAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:04:45.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IServiceEntryService.cs",
+              "DocumentMoniker": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web.Business\\Abstract\\IServiceEntryService.cs",
+              "RelativeDocumentMoniker": "Car.Service.Web.Business\\Abstract\\IServiceEntryService.cs",
+              "ToolTip": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web.Business\\Abstract\\IServiceEntryService.cs",
+              "RelativeToolTip": "Car.Service.Web.Business\\Abstract\\IServiceEntryService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAArwA8AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:02:31.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web.Data\\Concrete\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Car.Service.Web.Data\\Concrete\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web.Data\\Concrete\\UnitOfWork.cs",
+              "RelativeToolTip": "Car.Service.Web.Data\\Concrete\\UnitOfWork.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:01:17.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web.Data\\Abstract\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Car.Service.Web.Data\\Abstract\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web.Data\\Abstract\\IUnitOfWork.cs",
+              "RelativeToolTip": "Car.Service.Web.Data\\Abstract\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:00:54.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web.Data\\Concrete\\Repository.cs",
+              "RelativeDocumentMoniker": "Car.Service.Web.Data\\Concrete\\Repository.cs",
+              "ToolTip": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web.Data\\Concrete\\Repository.cs",
+              "RelativeToolTip": "Car.Service.Web.Data\\Concrete\\Repository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAawC8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:00:22.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web.Data\\Abstract\\IRepository.cs",
+              "RelativeDocumentMoniker": "Car.Service.Web.Data\\Abstract\\IRepository.cs",
+              "ToolTip": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web.Data\\Abstract\\IRepository.cs",
+              "RelativeToolTip": "Car.Service.Web.Data\\Abstract\\IRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:00:03.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ServiceEntry.cs",
+              "DocumentMoniker": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web.Data\\Entities\\ServiceEntry.cs",
+              "RelativeDocumentMoniker": "Car.Service.Web.Data\\Entities\\ServiceEntry.cs",
+              "ToolTip": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web.Data\\Entities\\ServiceEntry.cs",
+              "RelativeToolTip": "Car.Service.Web.Data\\Entities\\ServiceEntry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T17:47:34.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web.Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Car.Service.Web.Data\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web.Data\\Entities\\User.cs",
+              "RelativeToolTip": "Car.Service.Web.Data\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T17:47:31.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Car.Service.Web\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Car.Service.Web\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-25T10:56:27.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Car.Service.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Car.Service.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T09:51:30.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Car.Service.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Car.Service.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T09:51:19.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Car.Service.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\Program.cs",
+              "RelativeToolTip": "Car.Service.Web\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAiwCoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T09:08:36.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Car.Service.Web\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Car.Service.Web\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAIwDwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T09:08:33.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RedirectToLoginMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\Middlewares\\RedirectToLoginMiddleware.cs",
+              "RelativeDocumentMoniker": "Car.Service.Web\\Middlewares\\RedirectToLoginMiddleware.cs",
+              "ToolTip": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\Middlewares\\RedirectToLoginMiddleware.cs",
+              "RelativeToolTip": "Car.Service.Web\\Middlewares\\RedirectToLoginMiddleware.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T10:00:30.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Car.Service.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ogun.oksuz\\Source\\repos\\Car.Service.Web.Sol\\Car.Service.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Car.Service.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAnwB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T09:08:47.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

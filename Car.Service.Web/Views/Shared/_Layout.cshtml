@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Car.Service.Web</title>
+   
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/2.1.4/css/dataTables.dataTables.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Car.Service.Web.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="d-flex flex-column min-vh-100">
+        <main role="main" class="flex-fill pb-3">
+            @RenderBody()
+        </main>
+
+        <footer class="border-top footer text-muted mt-auto">
+            <div class="container">
+                &Developer Ogun Oksuz; 2024 - Vehicle Service Tracking
+            </div>
+        </footer>
+    </div>
+   
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.6.0/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.datatables.net/2.1.4/js/dataTables.js"></script>
+    <script src="~/js/site.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+

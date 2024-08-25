@@ -1,0 +1,59 @@
+﻿@using Vehicle.Service.Tracking.Models;
+@model IEnumerable<ServiceEntryListModel>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@await Html.PartialAsync("_Navbar")
+
+<div class="table-container">
+    <button id="addButton" class="btn btn-primary">Add</button>
+    <table id="serviceEntriesTable" class="display">
+        <thead>
+            <tr>
+                <th>License Plate</th>
+                <th>Brand Name</th>
+                <th>Model Name</th>
+                <th>Mileage</th>
+                <th>Model Year</th>
+                <th>Service Arrival Date</th>
+                <th>Warranty</th>
+                <th>Service Note</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var entry in Model)
+            {
+                <tr>
+                    <td>@entry.LicensePlate</td>
+                    <td>@entry.BrandName</td>
+                    <td>@entry.ModelName</td>
+                    <td>@entry.Mileage</td>
+                    <td>@entry.ModelYear</td>
+                    <td>@entry.ServiceArrivalDate.ToString("yyyy-MM-dd")</td>
+                    <td>@(entry.Warranty ? "Yes" : "No")</td>
+                    <td>@entry.ServiceNote</td>
+                    <td>
+                        <a asp-controller="Home" asp-action="Edit" asp-route-id="@entry.ServiceId" class="btn btn-warning btn-sm">Edit</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.6.0/js/bootstrap.bundle.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+        $('#serviceEntriesTable').DataTable();
+
+        $('#addButton').click(function () {
+            window.location.href = '@Url.Action("Create", "Home")';
+        });
+    });
+</script>

@@ -1,0 +1,88 @@
+html, body {
+    height: 100%; /* Ensure full height for the html and body */
+    margin: 0; /* Remove any default margin to avoid layout issues */
+}
+
+html {
+    font-size: 14px; /* Default font size */
+    position: relative;
+    min-height: 100%; /* Ensure the html takes up full height */
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px; /* Increase font size for larger screens */
+    }
+}
+
+body {
+    margin-bottom: 60px; /* Account for the footer height */
+}
+
+.btn:focus, .btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb; /* Styling for focused elements */
+}
+
+/* Flexbox layout for sticky footer */
+.d-flex {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Full viewport height for the flex container */
+}
+
+.flex-fill {
+    flex: 1 0 auto; /* Main content should take up available space */
+}
+
+footer {
+    flex-shrink: 0; /* Ensure footer stays at the bottom of the page */
+    height: 60px; /* Define footer height */
+    position: relative;
+    bottom: 0;
+    width: 100%; /* Ensure footer takes up full width */
+    background-color: #f8f9fa; /* Optional: Add background color */
+    padding: 1rem;
+    text-align: center;
+}
+
+.table-container {
+    padding: 20px 30px 10px 30px; /* top, right, bottom, left */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+button {
+    margin-bottom: 10px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+    button:hover {
+        background-color: #45a049;
+    }
+
+

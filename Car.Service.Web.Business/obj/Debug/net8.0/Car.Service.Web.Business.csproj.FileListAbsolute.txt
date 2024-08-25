@@ -1,0 +1,15 @@
+C:\Users\ogun.oksuz\Source\repos\Car.Service.Web.Sol\Car.Service.Web.Business\bin\Debug\net8.0\Car.Service.Web.Business.deps.json
+C:\Users\ogun.oksuz\Source\repos\Car.Service.Web.Sol\Car.Service.Web.Business\bin\Debug\net8.0\Car.Service.Web.Business.dll
+C:\Users\ogun.oksuz\Source\repos\Car.Service.Web.Sol\Car.Service.Web.Business\bin\Debug\net8.0\Car.Service.Web.Business.pdb
+C:\Users\ogun.oksuz\Source\repos\Car.Service.Web.Sol\Car.Service.Web.Business\bin\Debug\net8.0\Car.Service.Web.Data.dll
+C:\Users\ogun.oksuz\Source\repos\Car.Service.Web.Sol\Car.Service.Web.Business\bin\Debug\net8.0\Car.Service.Web.Data.pdb
+C:\Users\ogun.oksuz\Source\repos\Car.Service.Web.Sol\Car.Service.Web.Business\obj\Debug\net8.0\Car.Service.Web.Business.csproj.AssemblyReference.cache
+C:\Users\ogun.oksuz\Source\repos\Car.Service.Web.Sol\Car.Service.Web.Business\obj\Debug\net8.0\Car.Service.Web.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ogun.oksuz\Source\repos\Car.Service.Web.Sol\Car.Service.Web.Business\obj\Debug\net8.0\Car.Service.Web.Business.AssemblyInfoInputs.cache
+C:\Users\ogun.oksuz\Source\repos\Car.Service.Web.Sol\Car.Service.Web.Business\obj\Debug\net8.0\Car.Service.Web.Business.AssemblyInfo.cs
+C:\Users\ogun.oksuz\Source\repos\Car.Service.Web.Sol\Car.Service.Web.Business\obj\Debug\net8.0\Car.Service.Web.Business.csproj.CoreCompileInputs.cache
+C:\Users\ogun.oksuz\Source\repos\Car.Service.Web.Sol\Car.Service.Web.Business\obj\Debug\net8.0\Car.Serv.D2256A17.Up2Date
+C:\Users\ogun.oksuz\Source\repos\Car.Service.Web.Sol\Car.Service.Web.Business\obj\Debug\net8.0\Car.Service.Web.Business.dll
+C:\Users\ogun.oksuz\Source\repos\Car.Service.Web.Sol\Car.Service.Web.Business\obj\Debug\net8.0\refint\Car.Service.Web.Business.dll
+C:\Users\ogun.oksuz\Source\repos\Car.Service.Web.Sol\Car.Service.Web.Business\obj\Debug\net8.0\Car.Service.Web.Business.pdb
+C:\Users\ogun.oksuz\Source\repos\Car.Service.Web.Sol\Car.Service.Web.Business\obj\Debug\net8.0\ref\Car.Service.Web.Business.dll

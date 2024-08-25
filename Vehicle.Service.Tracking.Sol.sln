@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vehicle.Service.Tracking", "Car.Service.Web\Vehicle.Service.Tracking.csproj", "{E6E93240-E17F-4BED-99B2-2AF18419D173}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car.Service.Web.Data", "Car.Service.Web.Data\Car.Service.Web.Data.csproj", "{67FC3202-8ECC-4FB6-A625-240CC5B903CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car.Service.Web.Business", "Car.Service.Web.Business\Car.Service.Web.Business.csproj", "{66BF1BEE-AA8A-4D22-8B4C-9FBDB02C7A94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6E93240-E17F-4BED-99B2-2AF18419D173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6E93240-E17F-4BED-99B2-2AF18419D173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6E93240-E17F-4BED-99B2-2AF18419D173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6E93240-E17F-4BED-99B2-2AF18419D173}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67FC3202-8ECC-4FB6-A625-240CC5B903CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67FC3202-8ECC-4FB6-A625-240CC5B903CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67FC3202-8ECC-4FB6-A625-240CC5B903CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67FC3202-8ECC-4FB6-A625-240CC5B903CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66BF1BEE-AA8A-4D22-8B4C-9FBDB02C7A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66BF1BEE-AA8A-4D22-8B4C-9FBDB02C7A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66BF1BEE-AA8A-4D22-8B4C-9FBDB02C7A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66BF1BEE-AA8A-4D22-8B4C-9FBDB02C7A94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A37D1184-8699-4A25-9808-C29E210E4F32}
+	EndGlobalSection
+EndGlobal
